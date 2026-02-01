@@ -1,2 +1,3 @@
 # value-network
-Exploration into some various new research surrounding Value networks
+
+Exploration into some new research surrounding value networks
