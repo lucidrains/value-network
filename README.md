@@ -15,3 +15,15 @@ Exploration into some new research surrounding value networks
     url    = {https://api.semanticscholar.org/CorpusID:268253088}
 }
 ```
+
+```bibtex
+@misc{lee2025banelexplorationposteriorsgenerative,
+    title    = {BaNEL: Exploration Posteriors for Generative Modeling Using Only Negative Rewards}, 
+    author   = {Sangyun Lee and Brandon Amos and Giulia Fanti},
+    year     = {2025},
+    eprint   = {2510.09596},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.LG},
+    url      = {https://arxiv.org/abs/2510.09596}, 
+}
+```
