@@ -23,9 +23,10 @@ classifiers=[
 ]
 
 dependencies = [
+    "einops>=0.8.2",
+    "hl-gauss-pytorch",
     "torch>=2.5",
     "torch-einops-utils>=0.0.20",
-    "einops>=0.8.2"
 ]
 
 [project.urls]
