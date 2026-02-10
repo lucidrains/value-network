@@ -27,3 +27,15 @@ Exploration into some new research surrounding value networks
     url      = {https://arxiv.org/abs/2510.09596}, 
 }
 ```
+
+```bibtex
+@misc{ma2024visionlanguagemodelsincontext,
+    title   = {Vision Language Models are In-Context Value Learners}, 
+    author  = {Yecheng Jason Ma and Joey Hejna and Ayzaan Wahid and Chuyuan Fu and Dhruv Shah and Jacky Liang and Zhuo Xu and Sean Kirmani and Peng Xu and Danny Driess and Ted Xiao and Jonathan Tompson and Osbert Bastani and Dinesh Jayaraman and Wenhao Yu and Tingnan Zhang and Dorsa Sadigh and Fei Xia},
+    year    = {2024},
+    eprint  = {2411.04549},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.RO},
+    url     = {https://arxiv.org/abs/2411.04549}, 
+}
+```
